@@ -1,0 +1,22 @@
+{
+  "name": "practicing_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santrami2/repositorio_con_git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santrami2/repositorio_con_git/issues"
+  },
+  "homepage": "https://github.com/santrami2/repositorio_con_git#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
